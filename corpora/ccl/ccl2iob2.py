@@ -51,7 +51,8 @@ def main(path_input: str, path_output: str):
 
 def parse_args():
     parser = argparse.ArgumentParser(
-        description='Convert set of IOB files into a single json file in PolEval 2018 NER format')
+        description='Convert a CCL file with named entities and their attributes'
+                    ' (compliant with BSNLP2021 guidelines) to IOB2.')
     parser.add_argument('--input', required=True, metavar='PATH', help='path to an input file in CCL format')
     parser.add_argument('--output', required=False, metavar='PATH', help='path to an output file. Default: stdout')
     return parser.parse_args()
