@@ -1,0 +1,1482 @@
+<chunkList>
+<chunk id="ch1" type="">
+<sentence id="sent1">
+<tok>
+<orth>14</orth>
+<lex disamb="1">
+<base>14</base>
+<ctag>NUM</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<ns/>
+<tok>
+<orth>:</orth>
+<lex disamb="1">
+<base>:</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<ns/>
+<tok>
+<orth>25</orth>
+<lex disamb="1">
+<base>25</base>
+<ctag>NUM</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>Еврокомисията</orth>
+<lex disamb="1">
+<base>еврокомисия</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="ORG">1236149</ann>
+<ann chan="LOC">0</ann>
+<prop key="ORG:lemma">Еврокомисия</prop>
+<prop key="ORG:eid">ORG-European-Commission</prop>
+</tok>
+<ns/>
+<tok>
+<orth>:</orth>
+<lex disamb="1">
+<base>:</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>Пакистан</orth>
+<lex disamb="1">
+<base>Пакистан</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">1143250</ann>
+<prop key="LOC:lemma">Пакистан</prop>
+<prop key="LOC:eid">GPE-Pakistan</prop>
+</tok>
+<tok>
+<orth>да</orth>
+<lex disamb="1">
+<base>да</base>
+<ctag>AUX</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>вземе</orth>
+<lex disamb="1">
+<base>взема</base>
+<ctag>VERB</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>мерки</orth>
+<lex disamb="1">
+<base>мярка</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>за</orth>
+<lex disamb="1">
+<base>за</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>сигурността</orth>
+<lex disamb="1">
+<base>сигурност</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>своите</orth>
+<lex disamb="1">
+<base>свой</base>
+<ctag>DET</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>граждани</orth>
+<lex disamb="1">
+<base>гражданин</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+</sentence>
+<sentence id="sent2">
+<tok>
+<orth>Очакваме</orth>
+<lex disamb="1">
+<base>очаквам</base>
+<ctag>VERB</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+<tok>
+<orth>правителството</orth>
+<lex disamb="1">
+<base>правителство</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+<tok>
+<orth>Пакистан</orth>
+<lex disamb="1">
+<base>Пакистан</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="LOC">1143251</ann>
+<ann chan="PER">0</ann>
+<prop key="LOC:lemma">Пакистан</prop>
+<prop key="LOC:eid">GPE-Pakistan</prop>
+</tok>
+<tok>
+<orth>да</orth>
+<lex disamb="1">
+<base>да</base>
+<ctag>AUX</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+<tok>
+<orth>вземе</orth>
+<lex disamb="1">
+<base>взема</base>
+<ctag>VERB</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+<tok>
+<orth>необходимите</orth>
+<lex disamb="1">
+<base>необходим</base>
+<ctag>ADJ</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+<tok>
+<orth>мерки</orth>
+<lex disamb="1">
+<base>мярка</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+<tok>
+<orth>за</orth>
+<lex disamb="1">
+<base>за</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+<tok>
+<orth>сигурността</orth>
+<lex disamb="1">
+<base>сигурност</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+<tok>
+<orth>своите</orth>
+<lex disamb="1">
+<base>свой</base>
+<ctag>DET</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+<tok>
+<orth>граждани</orth>
+<lex disamb="1">
+<base>гражданин</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+<ns/>
+<tok>
+<orth>,</orth>
+<lex disamb="1">
+<base>,</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+<tok>
+<orth>включително</orth>
+<lex disamb="1">
+<base>включително</base>
+<ctag>ADV</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+<tok>
+<orth>Асия</orth>
+<lex disamb="1">
+<base>Асия</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">1143252</ann>
+<prop key="PER:lemma">Асия Биби</prop>
+<prop key="PER:eid">PER-Asia-Bibi</prop>
+</tok>
+<tok>
+<orth>Биби</orth>
+<lex disamb="1">
+<base>Биби</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">1143252</ann>
+</tok>
+<ns/>
+<tok>
+<orth>.</orth>
+<lex disamb="1">
+<base>.</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+</tok>
+</sentence>
+<sentence id="sent3">
+<tok>
+<orth>Това</orth>
+<lex disamb="1">
+<base>този</base>
+<ctag>PRON</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>заяви</orth>
+<lex disamb="1">
+<base>заявя</base>
+<ctag>VERB</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>днес</orth>
+<lex disamb="1">
+<base>днес</base>
+<ctag>ADV</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>пресконференция</orth>
+<lex disamb="1">
+<base>пресконференция</base>
+<ctag>ADJ</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>говорител</orth>
+<lex disamb="1">
+<base>говорител</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>Европейската</orth>
+<lex disamb="1">
+<base>европейски</base>
+<ctag>ADJ</ctag>
+</lex>
+<ann chan="ORG">1143253</ann>
+<prop key="ORG:lemma">Европейска комисия</prop>
+<prop key="ORG:eid">ORG-European-Commission</prop>
+</tok>
+<tok>
+<orth>комисия</orth>
+<lex disamb="1">
+<base>комисия</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="ORG">1143253</ann>
+</tok>
+<tok>
+<orth>в</orth>
+<lex disamb="1">
+<base>в</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>отговор</orth>
+<lex disamb="1">
+<base>отговор</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>въпрос</orth>
+<lex disamb="1">
+<base>въпрос</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+</tok>
+<ns/>
+<tok>
+<orth>.</orth>
+<lex disamb="1">
+<base>.</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+</tok>
+</sentence>
+<sentence id="sent4">
+<tok>
+<orth>Много</orth>
+<lex disamb="1">
+<base>много</base>
+<ctag>ADV</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>е</orth>
+<lex disamb="1">
+<base>съм</base>
+<ctag>AUX</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>важно</orth>
+<lex disamb="1">
+<base>важен</base>
+<ctag>ADV</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>този</orth>
+<lex disamb="1">
+<base>този</base>
+<ctag>DET</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>дълъг</orth>
+<lex disamb="1">
+<base>дълъг</base>
+<ctag>ADJ</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>процес</orth>
+<lex disamb="1">
+<base>процес</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>(</orth>
+<lex disamb="1">
+<base>(</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<ns/>
+<tok>
+<orth>срещу</orth>
+<lex disamb="1">
+<base>срещу</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>Биби</orth>
+<lex disamb="1">
+<base>Биби</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="PER">1143254</ann>
+<ann chan="ORG">0</ann>
+<prop key="PER:lemma">Биби</prop>
+<prop key="PER:eid">PER-Asia-Bibi</prop>
+</tok>
+<ns/>
+<tok>
+<orth>)</orth>
+<lex disamb="1">
+<base>)</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>да</orth>
+<lex disamb="1">
+<base>да</base>
+<ctag>AUX</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>приключи</orth>
+<lex disamb="1">
+<base>приключа</base>
+<ctag>VERB</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<ns/>
+<tok>
+<orth>,</orth>
+<lex disamb="1">
+<base>,</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>добави</orth>
+<lex disamb="1">
+<base>добавя</base>
+<ctag>VERB</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>той</orth>
+<lex disamb="1">
+<base>аз</base>
+<ctag>PRON</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>по</orth>
+<lex disamb="1">
+<base>по</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>повод</orth>
+<lex disamb="1">
+<base>повод</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>развитието</orth>
+<lex disamb="1">
+<base>развитие</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>случая</orth>
+<lex disamb="1">
+<base>случай</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>с</orth>
+<lex disamb="1">
+<base>с</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>осъдената</orth>
+<lex disamb="1">
+<base>осъдена</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>смърт</orth>
+<lex disamb="1">
+<base>смърт</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>за</orth>
+<lex disamb="1">
+<base>за</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>богохулство</orth>
+<lex disamb="1">
+<base>богохулство</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>християнка</orth>
+<lex disamb="1">
+<base>християнка</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<ns/>
+<tok>
+<orth>,</orth>
+<lex disamb="1">
+<base>,</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>чието</orth>
+<lex disamb="1">
+<base>чийто</base>
+<ctag>DET</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>наказание</orth>
+<lex disamb="1">
+<base>наказание</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>бе</orth>
+<lex disamb="1">
+<base>съм</base>
+<ctag>AUX</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>отменено</orth>
+<lex disamb="1">
+<base>отменя</base>
+<ctag>VERB</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>от</orth>
+<lex disamb="1">
+<base>от</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>Върховния</orth>
+<lex disamb="1">
+<base>върховен</base>
+<ctag>ADJ</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">1143255</ann>
+<prop key="ORG:lemma">Върховен съд на Пакистан</prop>
+<prop key="ORG:eid">ORG-Supreme-Court-of-Pakistan</prop>
+</tok>
+<tok>
+<orth>съд</orth>
+<lex disamb="1">
+<base>съд</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">1143255</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">1143255</ann>
+</tok>
+<tok>
+<orth>Пакистан</orth>
+<lex disamb="1">
+<base>Пакистан</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">1143255</ann>
+</tok>
+<ns/>
+<tok>
+<orth>.</orth>
+<lex disamb="1">
+<base>.</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+</sentence>
+<sentence id="sent5">
+<tok>
+<orth>ЕС</orth>
+<lex disamb="1">
+<base>ес</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="ORG">1143256</ann>
+<ann chan="LOC">0</ann>
+<prop key="ORG:lemma">ЕС</prop>
+<prop key="ORG:eid">ORG-European-Union</prop>
+</tok>
+<tok>
+<orth>призова</orth>
+<lex disamb="1">
+<base>призова</base>
+<ctag>VERB</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>преди</orth>
+<lex disamb="1">
+<base>преди</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>дни</orth>
+<lex disamb="1">
+<base>ден</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>Исламабад</orth>
+<lex disamb="1">
+<base>Исламабад</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">1143257</ann>
+<prop key="LOC:lemma">Исламабад</prop>
+<prop key="LOC:eid">GPE-Islamabad</prop>
+</tok>
+<tok>
+<orth>да</orth>
+<lex disamb="1">
+<base>да</base>
+<ctag>AUX</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>осигури</orth>
+<lex disamb="1">
+<base>осигуря</base>
+<ctag>VERB</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>спазването</orth>
+<lex disamb="1">
+<base>спазване</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>човешките</orth>
+<lex disamb="1">
+<base>човешки</base>
+<ctag>ADJ</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>права</orth>
+<lex disamb="1">
+<base>право</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>всички</orth>
+<lex disamb="1">
+<base>всеки</base>
+<ctag>DET</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>пакистанци</orth>
+<lex disamb="1">
+<base>пакистанец</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>според</orth>
+<lex disamb="1">
+<base>според</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>подписаните</orth>
+<lex disamb="1">
+<base>подписаен</base>
+<ctag>ADJ</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>международни</orth>
+<lex disamb="1">
+<base>международен</base>
+<ctag>ADJ</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>спогодби</orth>
+<lex disamb="1">
+<base>спогодба</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<ns/>
+<tok>
+<orth>,</orth>
+<lex disamb="1">
+<base>,</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>припомня</orth>
+<lex disamb="1">
+<base>припомням-(си)</base>
+<ctag>VERB</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>БТА</orth>
+<lex disamb="1">
+<base>бта</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="ORG">1143258</ann>
+<ann chan="LOC">0</ann>
+<prop key="ORG:lemma">БТА</prop>
+<prop key="ORG:eid">ORG-Bulgarian-News-Agency</prop>
+</tok>
+<ns/>
+<tok>
+<orth>.</orth>
+<lex disamb="1">
+<base>.</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="ORG">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+</sentence>
+<sentence id="sent6">
+<tok>
+<orth>По</orth>
+<lex disamb="1">
+<base>по</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<ns/>
+<tok>
+<orth>-</orth>
+<lex disamb="1">
+<base>-</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<ns/>
+<tok>
+<orth>рано</orth>
+<lex disamb="1">
+<base>рано</base>
+<ctag>ADV</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>днес</orth>
+<lex disamb="1">
+<base>днес</base>
+<ctag>ADV</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>министърът</orth>
+<lex disamb="1">
+<base>министър</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>външните</orth>
+<lex disamb="1">
+<base>външен</base>
+<ctag>ADJ</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>работи</orth>
+<lex disamb="1">
+<base>работа</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>Белгия</orth>
+<lex disamb="1">
+<base>белгия</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="LOC">1143259</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+<prop key="LOC:lemma">Белгия</prop>
+<prop key="LOC:eid">GPE-Belgium</prop>
+</tok>
+<tok>
+<orth>Дидие</orth>
+<lex disamb="1">
+<base>Дидие</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">1143260</ann>
+<ann chan="ORG">0</ann>
+<prop key="PER:lemma">Дидие Рейндерс</prop>
+<prop key="PER:eid">PER-Didier-Reynders</prop>
+</tok>
+<tok>
+<orth>Рейндерс</orth>
+<lex disamb="1">
+<base>Рейндерс</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">1143260</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>подкрепи</orth>
+<lex disamb="1">
+<base>подкрепя</base>
+<ctag>VERB</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>предложението</orth>
+<lex disamb="1">
+<base>предложение</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>водещата</orth>
+<lex disamb="1">
+<base>водем</base>
+<ctag>ADJ</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>белгийска</orth>
+<lex disamb="1">
+<base>белгийски</base>
+<ctag>ADJ</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>партия</orth>
+<lex disamb="1">
+<base>партия</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>Нов</orth>
+<lex disamb="1">
+<base>нов</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">1143261</ann>
+<prop key="ORG:lemma">Нов фламандски алианс</prop>
+<prop key="ORG:eid">ORG-New-Flemish-Alliance</prop>
+</tok>
+<tok>
+<orth>фламандски</orth>
+<lex disamb="1">
+<base>фламандски</base>
+<ctag>ADJ</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">1143261</ann>
+</tok>
+<tok>
+<orth>алианс</orth>
+<lex disamb="1">
+<base>алианс</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">1143261</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>осъдената</orth>
+<lex disamb="1">
+<base>осъдена</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>и</orth>
+<lex disamb="1">
+<base>и</base>
+<ctag>CCONJ</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>съпруга</orth>
+<lex disamb="1">
+<base>съпруга</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>й</orth>
+<lex disamb="1">
+<base>неин</base>
+<ctag>PRON</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>да</orth>
+<lex disamb="1">
+<base>да</base>
+<ctag>AUX</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>бъде</orth>
+<lex disamb="1">
+<base>бъда</base>
+<ctag>AUX</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>предоставено</orth>
+<lex disamb="1">
+<base>предоставя</base>
+<ctag>VERB</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<tok>
+<orth>убежище</orth>
+<lex disamb="1">
+<base>убежище</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+<ns/>
+<tok>
+<orth>.</orth>
+<lex disamb="1">
+<base>.</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="LOC">0</ann>
+<ann chan="PER">0</ann>
+<ann chan="ORG">0</ann>
+</tok>
+</sentence>
+<sentence id="sent7">
+<tok>
+<orth>Съпругът</orth>
+<lex disamb="1">
+<base>съпруг</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>на</orth>
+<lex disamb="1">
+<base>на</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>Биби</orth>
+<lex disamb="1">
+<base>Биби</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="PER">1143262</ann>
+<ann chan="LOC">0</ann>
+<prop key="PER:lemma">Биби</prop>
+<prop key="PER:eid">PER-Asia-Bibi</prop>
+</tok>
+<tok>
+<orth>поиска</orth>
+<lex disamb="1">
+<base>поискам</base>
+<ctag>VERB</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>вече</orth>
+<lex disamb="1">
+<base>вече</base>
+<ctag>ADV</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>убежище</orth>
+<lex disamb="1">
+<base>убежище</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>в</orth>
+<lex disamb="1">
+<base>в</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>САЩ</orth>
+<lex disamb="1">
+<base>сащ</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">1143263</ann>
+<prop key="LOC:lemma">САЩ</prop>
+<prop key="LOC:eid">GPE-USA</prop>
+</tok>
+<ns/>
+<tok>
+<orth>,</orth>
+<lex disamb="1">
+<base>,</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>Великобритания</orth>
+<lex disamb="1">
+<base>великобритания</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">1143264</ann>
+<prop key="LOC:lemma">Великобритания</prop>
+<prop key="LOC:eid">GPE-Great-Britain</prop>
+</tok>
+<tok>
+<orth>или</orth>
+<lex disamb="1">
+<base>или</base>
+<ctag>CCONJ</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>Канада</orth>
+<lex disamb="1">
+<base>канада</base>
+<ctag>PROPN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">1143265</ann>
+<prop key="LOC:lemma">Канада</prop>
+<prop key="LOC:eid">GPE-Canada</prop>
+</tok>
+<tok>
+<orth>заради</orth>
+<lex disamb="1">
+<base>заради</base>
+<ctag>ADP</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>отправени</orth>
+<lex disamb="1">
+<base>отправя-(се)</base>
+<ctag>ADJ</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>смъртни</orth>
+<lex disamb="1">
+<base>смъртен</base>
+<ctag>ADJ</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<tok>
+<orth>заплахи</orth>
+<lex disamb="1">
+<base>заплаха</base>
+<ctag>NOUN</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+<ns/>
+<tok>
+<orth>.</orth>
+<lex disamb="1">
+<base>.</base>
+<ctag>PUNCT</ctag>
+</lex>
+<ann chan="PER">0</ann>
+<ann chan="LOC">0</ann>
+</tok>
+</sentence>
+</chunk>
+</chunkList>
